@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi, I'm Fred
 
-<!--
-**reecco/reecco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I’m currently learning Node.js, C# and React
+- Visit my <a href="https://reecco.vercel.app">website<a/> or <a href="https://www.linkedin.com/in/fred-recco-a95144259/">LinkedIn<a/> profile
+  
+<details title="Most Used Languages and Stats" align="left">
+  <summary align="left"><strong><i>Most Used Languages and Stats</i></strong></summary>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=reecco&show_icons=true&layout=compact&theme=radical" 
+    width="53%"           
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=reecco&langs_count=8&hide=html,css,scss,sass,less,ejs&layout=compact&theme=radical" 
+    width="35%"           
+  />
+</details>
